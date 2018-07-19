@@ -1,0 +1,46 @@
+{
+    "class_id": "com-snaplogic-snaps-twitter-twitteroauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "snaplogic"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "twitterTim"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "access_token_endpoint": {
+                "value": "https://api.twitter.com/oauth/access_token"
+            },
+            "auth_endpoint": {},
+            "authorize": {
+                "value": "/api/1/rest/admin/oauth/login/911cb769-1094-404d-985d-22c306947211?oauth_callback_host=https://stage.elastic.snaplogic.com"
+            },
+            "authorize_endpoint": {
+                "value": "https://api.twitter.com/oauth/authorize"
+            },
+            "client_id": {
+                "value": ""
+            },
+            "client_secret": {
+                "fp": "19801136fa6ee2ae7bb7b925752e32fbfa398b77e181042a0c2fbc3af786cad0",
+                "key": "account-cloud-managed-52e4561939244e3fe08bea2e-2015-04-30T04:11:41-675348",
+                "sym_iv": "DIR86SwVJo6vnvlILFBBvA==",
+                "sym_key": "NVGHaVCE9nNOE0Q7UkmB4aCHdMZZpzRUzQS+89AD2YF2y6JbolBfRDSt2QPVuR/wx7JSv56Qq/HmklUytZ9/bPE061lKhh8OYIcyfKu4FM4lEfsq44SOf6meT0QHKwZoUxrJfqnbtfF4zVTt+iGsTjq+UUMUsFqthwDFKp96kj9Wk0K8qxjJrHfSzqM36lbs7RM3s/hFT5lS5yHcq/HGrSCykwFDIRoiVRHwFOJx4uXx+QMMawUBEVuFYR6Nun61za2SpkJWnCkuBZfV57V5VAdK8sUciT5P1nfzhT0Y4H3qWv0a/0Xdj9dbBi68kaxO+N1nZoRT9qBhXyg50hJcbA==",
+                "value": "jsMhf3C1GYvbMa9rchw1Rw=="
+            },
+            "request_token_endpoint": {
+                "value": "https://api.twitter.com/oauth/request_token"
+            },
+            "timeout": {
+                "value": null
+            }
+        },
+        "view_serial": 100
+    }
+}
