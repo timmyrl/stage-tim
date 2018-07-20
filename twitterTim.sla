@@ -38,7 +38,7 @@
                 "value": "https://api.twitter.com/oauth/request_token"
             },
             "timeout": {
-                "value": 10
+                "value": 12
             }
         },
         "view_serial": 100
