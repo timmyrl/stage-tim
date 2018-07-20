@@ -1,0 +1,33 @@
+{
+    "class_id": "com-snaplogic-snaps-servicenow-servicenowaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "snaplogic"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "SN"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "instance": {
+                "value": "ven02361"
+            },
+            "password": {
+                "fp": "19801136fa6ee2ae7bb7b925752e32fbfa398b77e181042a0c2fbc3af786cad0",
+                "key": "account-cloud-managed-52e4561939244e3fe08bea2e-2015-04-30T04:11:41-675348",
+                "sym_iv": "gkcVFhRBS7Hcxxulv6W/8A==",
+                "sym_key": "mOUcI4ukQn+EntV59L4vAiBxE5KOVkihuprifuF9jih+RiYlfIPghagGO7jRd0P+fyTg9HKN1uDvf1yUjL/+Z1ut3mWGZdUZjNlGD+F9VWbJH/Ryctyk0LykA0xHYXsi1ZF4917PkrSB/vVz12C11X3d7AgD+XZawYjfd/CbSKDxZisTPhF294R8DvYf9aEONZ/Zt1P6ocCkMMnEVzwQh5FyrSeR3mlBQUSP5qP8EBotxM7nnoVnSUo1XWfo7asjqhD1QFY+cpnSeE/q4wVwKZzVBXfw9J78wm05WUViDH2zEw08CmjQLXIVAnh5fa6cCf5Gg+oBiQ2IoC6ywGvKzQ==",
+                "value": "Ayh9rfiSKFxMQ15wDEAXXg=="
+            },
+            "username": {
+                "value": "admin"
+            }
+        },
+        "view_serial": 100
+    }
+}

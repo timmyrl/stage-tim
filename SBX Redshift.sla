@@ -1,0 +1,122 @@
+{
+    "class_id": "com-snaplogic-snap-api-sql-accounts-redshiftdatabaseaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "snaplogic"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "SBX Redshift"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "JdbcDriversProp": {
+                "value": []
+            },
+            "advancedProperties": {
+                "value": {
+                    "acquireIncrement": {
+                        "value": 1
+                    },
+                    "autoCommit": {
+                        "value": true
+                    },
+                    "batchSize": {
+                        "value": 50
+                    },
+                    "checkoutTimeout": {
+                        "value": 10000
+                    },
+                    "fetchSize": {
+                        "value": 100
+                    },
+                    "idleConnectionTestPeriod": {
+                        "value": 5
+                    },
+                    "maxIdleTime": {
+                        "value": 30
+                    },
+                    "maxPoolSize": {
+                        "value": 50
+                    },
+                    "minPoolSize": {
+                        "value": 0
+                    },
+                    "retryAttempts": {
+                        "value": 0
+                    },
+                    "urlProperties": {
+                        "value": []
+                    }
+                }
+            },
+            "connectionProperties": {
+                "value": {
+                    "accessKeyId": {
+                        "fp": "19801136fa6ee2ae7bb7b925752e32fbfa398b77e181042a0c2fbc3af786cad0",
+                        "key": "account-cloud-managed-52e4561939244e3fe08bea2e-2015-04-30T04:11:41-675348",
+                        "sym_iv": "5qimfYtWAbmmAiQjZy6uog==",
+                        "sym_key": "cuu4tkgEL/ryl4x8yHmbn7InRumRRxuNCfu2jPHVuFbgstnaWmmodpLGqrd0E23b/mLpOXB3i1PPRxNc0jksPirz4qNwx9uW84yzZoWzV47UlyKrpi+g6LTgx0swL1ovAj/kNjGa3e0jI97K0fZrJtYTghU8/o7RnpvpO50dS+kXuVj206oI3YVvPd5kvaKje5H3AtiAnjuYODK0JJ77mmZnVeyr6tYVBvELcQDwGnE+Lkr+wveeSTQaLLIxQUDn32IDUK1Og1jz0TQQxu8fUx+neLTUZgFDhlxX/eENfcjfxLqVR2vDoFj4atb68LSChvAZbLuG+r+PnWdl07OwAQ==",
+                        "value": "YMLNPiFGVTZWJCA6WbS5eOVcaJWy7lxW4arr0bykOqI="
+                    },
+                    "bucket": {
+                        "value": "SnapBucket"
+                    },
+                    "databaseName": {
+                        "value": "sedemos"
+                    },
+                    "hostname": {
+                        "value": "fieldcluster.c8ysdwb0iwr9.us-east-1.redshift.amazonaws.com"
+                    },
+                    "password": {
+                        "fp": "19801136fa6ee2ae7bb7b925752e32fbfa398b77e181042a0c2fbc3af786cad0",
+                        "key": "account-cloud-managed-52e4561939244e3fe08bea2e-2015-04-30T04:11:41-675348",
+                        "sym_iv": "D1pkqkz4NQ2ydNoJskn65g==",
+                        "sym_key": "IqCGLGfeYsm+yBntNNroQaRcDMOl1+JJ06XJiAsbpMiWHBPac8qi7c2yc+BVJOR3b+BfGtrYSEB3Fg79RlCtJS+sGRG3qJAC1xx/GgaFV83YpBjMDq5Nq4JbwVfiP7RiXBEw0SA6AQvz0QKRj5P4RZNm33wJbGD04QBOjxGIMI7jfKXXNQYbn8Wj2AZPXSdXZfUaRSoaBamxssRY/2WXscUo2El/V4lVB41ShvfsN7hSByoCid8MCRDSyt4S/YuBuUjD4/cjQkPLH007ZyAhkHTq/57lC9zk4NVY+W8QfO8ku10hUDFaAeMxHcg8IjUVCWzAQDOngLpFXcGHDqFZDg==",
+                        "value": "yl8VXX5c1yuy0jCK9tQUlQ=="
+                    },
+                    "portNumber": {
+                        "value": 5439
+                    },
+                    "s3Folder": {
+                        "value": null
+                    },
+                    "secretKey": {
+                        "fp": "19801136fa6ee2ae7bb7b925752e32fbfa398b77e181042a0c2fbc3af786cad0",
+                        "key": "account-cloud-managed-52e4561939244e3fe08bea2e-2015-04-30T04:11:41-675348",
+                        "sym_iv": "nLY0Z3FdmMuDE9Re79bR+g==",
+                        "sym_key": "kJur5MNuODGAdgrYfuOFi9IikUCSSRO3kh5G/QF1EpdZviqnDs+zAvEXchurFyoyc1yfEFJfQMtUAGUal1QrkfUuG0wWEbpd7UsQl834oYXYZfkecRyAgOneZkodRQ8iUMDes9B24kX5s1d4CQkwJX6VBn7zf3/1RCPKL6Vwo6dNl346uDfy7MdFTpWzGX8tNXbF0R7aqrqgu2wxPplMxSlYUXMfM9skHf5Lj8M1xBocsV6Tyumhsn1GhS4wjjXQ1Dipi11SVhyb5tVTozr3qbP+M8pz+rEG/OECjeaQEMDBhOAVkres2ci2spV8XQtAYYI9x2bNboDq7BJCyyya1A==",
+                        "value": "UuEm6NQMFyYSUR3dAMy4m9lsXG/SoeK6sXZZgQiHcW/8ebsttjMz4m2OTuTjORmE"
+                    },
+                    "username": {
+                        "value": "admin"
+                    }
+                }
+            },
+            "iamProperties": {
+                "value": {
+                    "awsAccountID": {
+                        "value": null
+                    },
+                    "iamRoleName": {
+                        "value": null
+                    },
+                    "regionName": {
+                        "value": null
+                    }
+                }
+            },
+            "jdbcDriverClass": {
+                "value": "org.postgresql.Driver"
+            },
+            "jdbcUrl": {
+                "value": null
+            }
+        },
+        "view_serial": 100
+    }
+}
