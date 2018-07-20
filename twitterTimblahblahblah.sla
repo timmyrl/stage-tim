@@ -7,7 +7,7 @@
     "property_map": {
         "info": {
             "label": {
-                "value": "twitterTim"
+                "value": "twitterTimblahblahblah"
             },
             "notes": {
                 "value": null
@@ -19,7 +19,7 @@
             },
             "auth_endpoint": {},
             "authorize": {
-                "value": "/api/1/rest/admin/oauth/login/911cb769-1094-404d-985d-22c306947211?oauth_callback_host=https://stage.elastic.snaplogic.com"
+                "value": "/api/1/rest/admin/oauth/login/3ab53101-412d-4681-b4f9-8dc6c4e4069b?oauth_callback_host=https://stage.elastic.snaplogic.com"
             },
             "authorize_endpoint": {
                 "value": "https://api.twitter.com/oauth/authorize"
