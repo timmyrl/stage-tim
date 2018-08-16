@@ -1,0 +1,65 @@
+{
+    "class_id": "com-snaplogic-snaps-adobecloudplatform-adobecloudplatformjwtaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "snaplogic"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "dddd"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "clientID": {
+                "expression": false,
+                "value": "dd"
+            },
+            "clientSecret": {
+                "fp": "19801136fa6ee2ae7bb7b925752e32fbfa398b77e181042a0c2fbc3af786cad0",
+                "key": "account-cloud-managed-52e4561939244e3fe08bea2e-2015-04-30T04:11:41-675348",
+                "sym_iv": "lB2gSzbaYd6am5od0O6jXw==",
+                "sym_key": "ragWMm7hqnmrhCDIR1QI/5UOKBfRtzPAi67oxqprBvEhlUmJXHmV96R5QyAx/sLgFpdsdUNjhzrb0TpkCnmZkS+urFDPq/8Cmc2Rex39HEp8emlRyg3xW5rrqWVE/HwhSCHSxHuu/iGxL6hV4zZJ3Hn+DyxysbZ1qmSOosoYgoagj4b8BeMGdn89qcTB/SUUk2OSyyXqvvlsItyO69Qx7UY151/JRvgXjooPzN2wjs4S5vh0DRUUNIlSKFG+vok3jqnHHYZ06zbe5qbfiMGYerXhVvtVNMswyUH6RE4YjA2wfXiwRJfAMp8Py6DQJ7KHGeJQUrt2M+V3AAWU594AQw==",
+                "value": "czWETea1mtwu/08sS4G5sg=="
+            },
+            "keyStorePassphrase": {
+                "fp": "19801136fa6ee2ae7bb7b925752e32fbfa398b77e181042a0c2fbc3af786cad0",
+                "key": "account-cloud-managed-52e4561939244e3fe08bea2e-2015-04-30T04:11:41-675348",
+                "sym_iv": "I+0OPB1hVsG1l9zus2SB3w==",
+                "sym_key": "ItkmTQcLyYapQWgeHpugzX09NzDHnRG0ScZu1pOIk19mL+Klb6aOOi1g8PJeAaObEYrvMqvk5+lp1iUZahkPAGO2QPCFvT5aoO2Y544jdoDf05Rw6SnkzPWYr7oejGB28Q70vp0ZDu9z6zwem7BLiz24W8aYuWeoN8feQhw/NEVHxcw67Mve/dMbxXyOI/JxwV52DJLcRPBNP2ckuSwRIc9YGVB+nMY44QBy87+/HcdoMFEj2iL1gp8llhMLheiJ28Uh6RtD10izw0/yidWNrXcIW1a4zkjsmsAK1JgcEGeakg0yYyVMss1PJ4quKU2fPfW//vKkr1zqK4K7cJJR7g==",
+                "value": "yrecqgNoE8BOfw1k0LjG5A=="
+            },
+            "keyStorePath": {
+                "expression": false,
+                "value": "dd"
+            },
+            "organizationID": {
+                "expression": false,
+                "value": "dd"
+            },
+            "privateKeyAlias": {
+                "expression": false,
+                "value": "dd"
+            },
+            "privateKeyPassphrase": {
+                "fp": "19801136fa6ee2ae7bb7b925752e32fbfa398b77e181042a0c2fbc3af786cad0",
+                "key": "account-cloud-managed-52e4561939244e3fe08bea2e-2015-04-30T04:11:41-675348",
+                "sym_iv": "5SWREnqlvUYHnNq3+IjaxQ==",
+                "sym_key": "Mehfle4U7RwC5+grnrkDuHSZ7bOS1b3tnP19w2coeqrv1L86QT1xUX9Ag69nlZmPwtOyUMHw7U5T6CcwvLdcYhxb4mwG1bGrQBjBaNtSgFCTjpjOZF2iSprJKFUpxhJ92c4VSWlLykhSNX2RT4GebzEr3ijkjVt7tELchsC5tzwMThH+u2VomaAJB2xDqjnX3jl9FdDvJT9hw29v3J2Ht4ZacUbX4Lwm8/cyK7RiJ2hqdiHdz6jzks6GcYDlDZyIfEvu1x6wUsRDdej+0hInF49D8qW1B6pYpH5SHk0QSHbEv3JkZTWiDB/3qT/PoQt1rk9GQuvtc4VroO2pYKhCUA==",
+                "value": "E2Ef7k/3QcZrvXz2/8Nc1g=="
+            },
+            "technicalAccountID": {
+                "expression": false,
+                "value": "dd"
+            },
+            "tokenExpiryTime": {
+                "expression": false,
+                "value": 10000
+            }
+        },
+        "view_serial": 100
+    }
+}
